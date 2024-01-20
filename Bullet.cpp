@@ -12,6 +12,8 @@ Bullet::Bullet() {
 
 }
 
+Bullet::~Bullet() {}
+
 void Bullet::InitializeBullet() {
 
 	bullet.radius = 10;

@@ -7,6 +7,8 @@ class Bullet {
 
 	Bullet();
 
+	~Bullet();
+
 	void InitializeBullet();
 
 	void Shot();

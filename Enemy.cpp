@@ -11,6 +11,8 @@ Enemy::Enemy(int posX, int posY, int speedX, int speedY) {
 
 }
 
+Enemy::~Enemy() {}
+
 void Enemy::Update() {
 
 
